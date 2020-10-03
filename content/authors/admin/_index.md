@@ -37,7 +37,7 @@ education:
   - course: MSc in Data Science
     institution: University of Granada
     year: 2018
-  - course: BSc in Computer Science (Specialization: Artificial Intelligence)
+  - course: BSc in Computer Science (Artificial Intelligence)
     institution: University of Sevilla
     year: 2017
 
@@ -86,6 +86,6 @@ user_groups:
 - Visitors
 ---
 
-Francisco M. Garcia-Moreno is PhD Candidate granted by the Spanish Government (FPU18/00287), at the University of Granada (Deparment of Software Engineering). 
+Francisco M. Garcia-Moreno is PhD Candidate granted by the Spanish Government (FPU18/00287), at the University of Granada (Deparment of Software Engineering).
 
 Research applied in the health domain, including computing medicine, bioinformatics and e-health / m-health.
