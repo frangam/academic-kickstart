@@ -9,7 +9,7 @@ featured: true
 publication: "*Sensors*"
 ---
 
-_volume 20 12 3427_
+_volume 20(12), 3427_
 
 
 {{% alert note %}}
