@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "PhD Candidate (Spanish FPU Grant)"
+  company = "University of Granada"
+  company_url = "https://lsi.ugr.es"
+  location = "Granada, Spain"
+  date_start = "2019-09-16"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Assistant Researcher at the Department of Software Engineering. Responsibilities include:
+  * Research
+  * Teaching
+  * R&D Project
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+title = "Research Assistant"
+company = "University of Granada"
+company_url = "https://lsi.ugr.es"
+location = "Granada, Spain"
+date_end = "2018-10-01"
+date_start = "2019-09-15"
+description = """Research on Data Science techniques applied to Medicine. Develop e-health system using wearables to collect, process and apply Machine Learning algorithms."""
+
+[[experience]]
+title = "Internship Researcher"
+company = "University of Sevilla"
+company_url = "https://www.cs.us.es/"
+location = "Sevilla, Spain"
+date_end = "2015-10-01"
+date_start = "2017-05-30"
+description = """Research on Data Science techniques applied to Bioinformatics. Develop a Machine Learning system to precti allergenicity of transgenic proteins."""
 
 +++
