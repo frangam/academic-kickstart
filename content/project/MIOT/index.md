@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FRAMADAPT"
-summary: "A Framework Based on Mobile/wearable Platforms for the Development of Adaptive Systems Supporting Decision Making in Health (TIN2016-79484-R)"
+title: "MIoT-Health"
+summary: "Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing (PID2019-109644RB-I00)"
 authors: []
-tags: ["Wearable", "e-Health"]
-categories: ["Wearable", "e-Health", "Machine Learning"]
-date: 2017-01-01T08:00:0+01:00
+tags: ["Wearable", "e-Health",  "IoT"]
+categories: ["Wearable", "e-Health",  "IoT", "Machine Learning"]
+date: 2020-01-01T08:00:0+01:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,4 +40,4 @@ url_video: ""
 slides: ""
 ---
 
-A Spanish project funded by the Spanish Ministry of Economy and Competitiveness (Agencia Estatal de Investigación) and Ministry of Science and Innovation with European Regional Development Funds (AEI/FEDER, UE).
+A Spanish project funded by the Spanish Ministry of Economy and Competitiveness (Agencia Estatal de Investigación) and Ministry of Science and Innovation with European Regional Development Funds (AEI/FEDER, UE). The general objective of this project is to create a design proposal for building comprehensive microservice-oriented IoT systems. This methodology will ensure relevant technical quality properties to support holistic and ecological user assessments in the eHealth domain, particularly to promote healthy and active ageing.
