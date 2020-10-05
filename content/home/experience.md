@@ -25,7 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-09-16"
   date_end = ""
   description = """
-  Assistant Researcher at the Department of Software Engineering. Responsibilities include:
+  Assistant Researcher at the Department of Software Engineering.
+  Responsibilities include:
   * Research
   * Teaching
   * R&D Project

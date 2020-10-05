@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Sevilla"
+  organization_url = "https://www.us.es"
+  title = "Best Academic Record of the Year 2016-2017"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = "https://drive.google.com/file/d/1gPnsxze4_I01x1CPWJcppDRD0NG219Ek/view?usp=sharing"
+  date_start = "2017-10-27"
   date_end = ""
   description = ""
 
-[[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  [[item]]
+    organization = "University of Sevilla"
+    organization_url = "https://www.us.es"
+    title = "Best BSc Final Degree Project 2017"
+    url = ""
+    certificate_url = "https://drive.google.com/file/d/1-n1CJj06Xw2yf13oSefgzgI-AE8SlUrS/view?usp=sharing"
+    date_start = "2018-10-31"
+    date_end = ""
+    description = "Spanish grade: 10 with honors; US equivalent: A+"
+
+  [[item]]
+    organization = "Spanish Ministry of Education and Professional Training"
+    organization_url = "http://www.educacionyfp.gob.es"
+    title = "FPU Grant (2018)"
+    url = ""
+    certificate_url = "http://www.educacionyfp.gob.es/dam/jcr:6c40ec03-6031-41a6-9b88-1ccc42cb8c15/resoluci&oacute;n%20de%202%20de%20septiembre%20de%202019%20de%20concesi&oacute;n%20de%20ayudas%20fpu18.pdf"
+    date_start = "2019-09-16"
+    date_end = "2023-09-15"
+    description = ""
+
+  [[item]]
+    organization = "Department of Computer Science and Artificial Intelligence (University of Granada) and Centre for Genomics and Oncological Research (GENYO)"
+    organization_url = "https://www.ugr.es"
+    title = "Winner of I Datathon of UGR Bioinformatics Conference"
+    url = "https://sites.google.com/go.ugr.es/iv-jornadasbioinformatica-ugr/datathon"
+    certificate_url = "https://drive.google.com/file/d/1w7KE9NCGwRn5plaSEj_owOQQiBn2dNGY/view?usp=sharing"
+    date_start = "2020-04-13"
+    date_end = ""
+    description = ""
 
 +++
