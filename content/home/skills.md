@@ -57,13 +57,13 @@ subtitle = ""
 [[feature]]
   icon = "bookmark"
   icon_pack = "fas"
-  name = "JCR indexed papers"
+  name = "JCR papers"
   description = "1"  
 
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
-  name = "Q1 ranked papers"
+  name = "Q1-ranked papers"
   description = "1"
 
 #[[feature]]
