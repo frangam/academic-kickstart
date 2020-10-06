@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2019-09-16"
   date_end = ""
   description = """
-  Assistant Researcher at the Department of Software Engineering.
+  Assistant Researcher of Data Science techniques applied to Medicine at the Department of Software Engineering.
   Responsibilities include:
   * Research
   * Teaching
