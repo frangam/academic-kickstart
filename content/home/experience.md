@@ -37,7 +37,7 @@ title = "Research Assistant"
 company = "University of Granada"
 company_url = "https://lsi.ugr.es"
 location = "Granada, Spain"
-date_start = "2018-10-01"
+date_start = "2017-10-01"
 date_end = "2019-09-15"
 description = """Research on Data Science techniques applied to Medicine. Develop e-health system using wearables to collect, process and apply Machine Learning algorithms."""
 
