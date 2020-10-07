@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   [[item]]
     organization = "Spanish Ministry of Education and Professional Training"
     organization_url = "http://www.educacionyfp.gob.es"
-    title = "PhD Spanish FPU Fellowship (2018)"
+    title = "PhD Spanish FPU Fellowship (FPU18/00287)"
     url = ""
     certificate_url = "http://www.educacionyfp.gob.es/dam/jcr:6c40ec03-6031-41a6-9b88-1ccc42cb8c15/resoluci&oacute;n%20de%202%20de%20septiembre%20de%202019%20de%20concesi&oacute;n%20de%20ayudas%20fpu18.pdf"
     date_start = "2019-09-16"
