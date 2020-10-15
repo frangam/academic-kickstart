@@ -30,7 +30,7 @@ image:
 projects: ["MIOT"]
 ---
 
-I am currently working on this R&D Project entitled "MIoT-Health: Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing" (ref: PID2019-109644RB-I00).
+I am currently working on this R&D Project {{% staticref "https://sites.google.com/go.ugr.es/miot-health" "newtab" %}}MIoT-Health: Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing" (ref: PID2019-109644RB-I00){{% /staticref %}}.
 
 The general objective of this R&D project is to create a design proposal for building comprehensive microservice-oriented IoT systems. This methodology will ensure relevant technical quality properties to support holistic and ecological user assessments in the eHealth domain, particularly to promote healthy and active ageing.
 
