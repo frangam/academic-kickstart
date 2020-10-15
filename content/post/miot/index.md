@@ -37,8 +37,3 @@ The general objective of this R&D project is to create a design proposal for bui
 I will applied my expertise focused on Data Science, Machine Learning and Bioinformatics applied to Medicine.
 
 {{< tweet 1316802992537034759 >}}
-
-#{{< quote hashtags="MIoT-Health, MYDASS" >}}A new R&D project using microservice-oriented IoT systems to promote active ageing.{{< /quote >}}
-
-
-# {{< youtube  >}}
