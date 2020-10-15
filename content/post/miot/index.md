@@ -5,7 +5,7 @@ title: "MIoT-Health"
 subtitle: "Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing"
 summary:
 authors: []
-tags: ["Wearable", "e-Health", "m-Health",  "IoT", "Machine Learning", "Medicine", "Active Ageing"]
+tags: ["Wearable", "e-Health", "m-Health",  "IoT", "Machine Learning", "Medicine", "Active Ageing", "MIoT-Health", "MIoTHealth"]
 categories: ["Wearable", "e-Health",  "IoT", "Machine Learning"]
 date: 2020-10-15T08:00:0+01:00
 lastmod: 2020-10-15T08:00:0+01:00
