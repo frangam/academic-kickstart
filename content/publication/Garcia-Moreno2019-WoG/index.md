@@ -7,6 +7,7 @@ publication_types: ["6"]
 abstract: ""
 featured: true
 publication: "*Communications in Computer and Information Science*"
+url_doi: "https://doi.org/10.1109/IE49459.2020.9155016"
 ---
 
 _volume 1016_
