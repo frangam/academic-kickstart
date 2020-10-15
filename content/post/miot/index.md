@@ -38,7 +38,7 @@ I will applied my expertise focused on Data Science, Machine Learning and Bioinf
 
 {{< tweet 1316802992537034759 >}}
 
-{{< quote hashtags="MIoT-Health, MYDASS" >}}A new R&D project using microservice-oriented IoT systems to promote active ageing.{{< /quote >}}
+#{{< quote hashtags="MIoT-Health, MYDASS" >}}A new R&D project using microservice-oriented IoT systems to promote active ageing.{{< /quote >}}
 
 
 # {{< youtube  >}}
