@@ -7,5 +7,5 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*2020 16th International Conference on Intelligent Environments (IE)*"
-url_doi: "https://doi.org/10.1109/IE49459.2020.9155016"
+doi: "https://doi.org/10.1109/IE49459.2020.9155016"
 ---

@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Proceedings*"
-url_doi: "https://doi.org/10.3390/proceedings2019031041"
+doi: "https://doi.org/10.3390/proceedings2019031041"
 ---
 
 _volume 31(1), 41_
