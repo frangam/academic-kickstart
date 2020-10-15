@@ -36,5 +36,9 @@ The general objective of this R&D project is to create a design proposal for bui
 
 I will applied my expertise focused on Data Science, Machine Learning and Bioinformatics applied to Medicine.
 
-{{<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am currently working on this R&amp;D Project entitled &quot;MIoT-Health: Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing&quot; (ref: PID2019-109644RB-I…<a href="https://t.co/u6dxnqauWZ">https://t.co/u6dxnqauWZ</a> <a href="https://t.co/dNZTo9OZyH">https://t.co/dNZTo9OZyH</a></p>&mdash; Fran Garcia-Moreno (@fgarciamo) <a href="https://twitter.com/fgarciamo/status/1316802992537034759?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}}
+#{{< blockquote class="twitter-tweet"><p lang="en" dir="ltr">I am currently working on this R&amp;D Project entitled &quot;MIoT-Health: Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing&quot; (ref: PID2019-109644RB-I…<a href="https://t.co/u6dxnqauWZ">https://t.co/u6dxnqauWZ</a> <a href="https://t.co/dNZTo9OZyH">https://t.co/dNZTo9OZyH</a></p>&mdash; Fran Garcia-Moreno (@fgarciamo) <a href="https://twitter.com/fgarciamo/status/1316802992537034759?ref_src=twsrc%5Etfw">October 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>}}
+
+{{< quote hashtags="MIoT-Health, MYDASS" >}}A new R&D project using microservice-oriented IoT systems to promote active ageing.{{< /quote >}}
+
+
 # {{< youtube  >}}
