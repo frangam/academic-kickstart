@@ -32,10 +32,13 @@ projects: ["MIOT"]
 
 I am currently working on this R&D Project {{% staticref "https://sites.google.com/go.ugr.es/miot-health" "newtab" %}}MIoT-Health: Microservice-oriented design of IoT systems for a holistic and ecological assessment in eHealth - A case study of active and healthy ageing" (ref: PID2019-109644RB-I00){{% /staticref %}}.
 
-![Funder: Spanish Ministry of Science and Innovation](/img/MICINN_Gob_Web_AEI_2.jpg)
-
 The general objective of this R&D project is to create a design proposal for building comprehensive microservice-oriented IoT systems. This methodology will ensure relevant technical quality properties to support holistic and ecological user assessments in the eHealth domain, particularly to promote healthy and active ageing.
 
 I will applied my expertise focused on Data Science, Machine Learning and Bioinformatics applied to Medicine.
+
+
+Project Ref. PID2019-109644RB-I00 / AEI / 10.13039/501100011033
+![Funder: Spanish Ministry of Science and Innovation](/img/MICINN_Gob_Web_AEI_2.jpg)
+
 
 {{< tweet 1316802992537034759 >}}
