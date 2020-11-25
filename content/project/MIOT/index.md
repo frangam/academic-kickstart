@@ -41,3 +41,5 @@ slides: ""
 ---
 
 A Spanish project funded by the Spanish Ministry of Economy and Competitiveness (Agencia Estatal de Investigación) and Ministry of Science and Innovation with European Regional Development Funds (AEI/FEDER, UE). The general objective of this project is to create a design proposal for building comprehensive microservice-oriented IoT systems. This methodology will ensure relevant technical quality properties to support holistic and ecological user assessments in the eHealth domain, particularly to promote healthy and active ageing.
+
+![Funder: Spanish Ministry of Science and Innovation](/static/MICINN_Gob_Web_AEI_2.jpg)
