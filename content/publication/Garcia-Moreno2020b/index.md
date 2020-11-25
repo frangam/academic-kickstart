@@ -14,7 +14,7 @@ _volume 20(23), 6730_
 
 This research work is partially funded by: the Spanish Ministry of Economy and Competitiveness (Agencia Estatal de Investigación-AEI) and the European Regional Development Funds (FEDER, UE) through the research project Ref. TIN2016-79484-R; and by the Spanish Ministry of Science and Innovation through the research project Ref. PID2019-109644RB-I00 / AEI / 10.13039/501100011033 and the Scholarship Program FPU Ref. FPU18/00287.
 
-![Funder: Spanish Ministry of Science and Innovation](/static/img/MICINN_Gob_Web_AEI_2.jpg)
+![Funder: Spanish Ministry of Science and Innovation](/img/MICINN_Gob_Web_AEI_2.jpg)
 
 {{% alert note %}}
 
