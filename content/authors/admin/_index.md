@@ -25,6 +25,7 @@ interests:
 - Data Science
 - Bioinformatics
 - Computing Medicine
+- Machine Learning Applied to Medicine
 
 education:
   courses:
