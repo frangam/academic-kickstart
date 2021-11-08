@@ -52,7 +52,7 @@ subtitle = ""
   icon = "book"
   icon_pack = "fas"
   name = "Publications"
-  description = "6"  
+  description = "7"  
 
 [[feature]]
   icon = "bookmark"
