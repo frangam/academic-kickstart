@@ -6,7 +6,7 @@ authors: ["Francisco M. Garcia-Moreno", "Maria Bermudez-Edo", "Estefanía Rodrí
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*"José Luis Garrido"*"
+publication: "*International Journal of Medical Informatics*"
 doi: "https://doi.org/10.1016/j.ijmedinf.2021.104625"
 ---
 
