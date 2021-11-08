@@ -51,10 +51,20 @@ date_format = "Jan 2006"
   [[item]]
     organization = "Department of Computer Science and Artificial Intelligence (University of Granada) and Centre for Genomics and Oncological Research (GENYO)"
     organization_url = "https://www.ugr.es"
-    title = "Winner of I Datathon of UGR Bioinformatics Conference"
+    title = "1st Winner of I Datathon of UGR Bioinformatics Conference"
     url = "https://sites.google.com/go.ugr.es/iv-jornadasbioinformatica-ugr/datathon"
-    certificate_url = "https://drive.google.com/file/d/1w7KE9NCGwRn5plaSEj_owOQQiBn2dNGY/view?usp=sharing"
+    certificate_url = "https://drive.google.com/file/d/1y0R4oIDwZFKM0uIIk2kQVQkcCMedzi93/view?usp=sharing"
     date_start = "2020-04-13"
+    date_end = ""
+    description = ""
+
+    [[item]]
+    organization = "Department of Computer Science and Artificial Intelligence (University of Granada) and Centre for Genomics and Oncological Research (GENYO)"
+    organization_url = "https://www.ugr.es"
+    title = "2nd Winner of II Datathon of UGR Bioinformatics Conference"
+    url = "https://sites.google.com/go.ugr.es/iv-jornadasbioinformatica-ugr/datathon"
+    certificate_url = "https://drive.google.com/file/d/1y-4gCLIr0-v3xq32a-DyLvm70KZMTXDL/view?usp=sharing"
+    date_start = "2020-04-20"
     date_end = ""
     description = ""
 
