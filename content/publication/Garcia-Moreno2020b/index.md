@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: true
 publication: "*Sensors*"
-doi: "https://doi.org/10.3390/s20236730"
+doi: "10.3390/s20236730"
 ---
 
 _volume 20(23), 6730_

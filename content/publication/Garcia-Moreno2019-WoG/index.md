@@ -5,9 +5,9 @@ publishDate: 2019-04-14T08:00:0.000000Z
 authors: ["Francisco Carranza-García", "Francisco M. Garcia-Moreno", "Carlos Rodriguez-Dominguez", "José Luis Garrido", "Maria Bermudez-Edo", "María José Rodríguez-Fórtiz"]
 publication_types: ["6"]
 abstract: ""
-featured: true
+featured: false
 publication: "*Communications in Computer and Information Science*"
-doi: "https://doi.org/10.1007/978-3-030-16028-9_11"
+doi: "10.1007/978-3-030-16028-9_11"
 ---
 
 _volume 1016_
