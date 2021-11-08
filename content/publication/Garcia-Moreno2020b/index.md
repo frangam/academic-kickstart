@@ -18,6 +18,6 @@ This research work is partially funded by: the Spanish Ministry of Economy and C
 
 {{% alert note %}}
 
-Impact factor: 3.275. Journal rank: Q1, 15/64 (Instruments & Instrumentation)
+Impact factor: 3.576. Journal rank: Q1, 14/72 (Instruments & Instrumentation)
 
 {{% /alert %}}

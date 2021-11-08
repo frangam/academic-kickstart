@@ -52,19 +52,19 @@ subtitle = ""
   icon = "book"
   icon_pack = "fas"
   name = "Publications"
-  description = "5"  
+  description = "6"  
 
 [[feature]]
   icon = "bookmark"
   icon_pack = "fas"
   name = "JCR papers"
-  description = "2"  
+  description = "3"  
 
 [[feature]]
   icon = "medal"
   icon_pack = "fas"
   name = "Q1-ranked papers"
-  description = "2"
+  description = "3"
 
 #[[feature]]
 #  icon = "google-scholar"
@@ -76,7 +76,7 @@ subtitle = ""
   icon = "project-diagram"
   icon_pack = "fas"
   name = "R&D projects"
-  description = "2"
+  description = "3"
 
 #[[feature]]
 #  icon = "industry"
